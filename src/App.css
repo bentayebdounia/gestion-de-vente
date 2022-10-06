@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+
+  background-color:black;
+  position:static;
+  bottom:0;
+  width:100%;
+  height:50px;
+  text-align: center;
+  color: white;
+  
+  
+  }
